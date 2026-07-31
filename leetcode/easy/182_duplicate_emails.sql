@@ -1,7 +1,6 @@
 -- ============================================
 -- LeetCode #182
 -- Duplicate Emails
--- Difficulty: Easy
 -- Topic: GROUP BY + HAVING
 -- ============================================
 
