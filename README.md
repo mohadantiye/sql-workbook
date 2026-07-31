@@ -1,40 +1,16 @@
-# SQL
+#SQL Lab
 
-This repository documents my SQL learning journey
-
-## Topics Covered
-- Database Creation
-- CREATE TABLE
-- INSERT INTO
-- SELECT
-- WHERE
-- LIKE
-- IN
-- ORDER BY
-- LIMIT
-- UPDATE
-- DELETE
-- ALTER TABLE
-- DROP TABLE
-- Aggregate Functions
-  - COUNT()
-  - SUM()
-  - AVG()
-  - MIN()
-  - MAX()
-- GROUP BY
-- HAVING
-- INNER JOIN
-- LEFT JOIN
-- RIGHT JOIN
-- FULL OUTER JOIN
+This repository documents my SQL practic.
 
 ## Database
-PostgreSQL
+- PostgreSQL
+
 ## Tools
 - PostgreSQL
 - DBeaver
 
-## Goal
+## Topics Covered
+- CREATE TABLE
+- INSERT INTO
 
-To build strong SQL skills for Application Support Engineering and Technical Support roles.
+More topics will be added as I progress.
