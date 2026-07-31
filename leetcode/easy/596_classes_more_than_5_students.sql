@@ -1,7 +1,6 @@
 -- ============================================
 -- LeetCode #596
 -- Classes More Than 5 Students
--- Difficulty: Easy
 -- Topic: GROUP BY + HAVING
 -- ============================================
 
